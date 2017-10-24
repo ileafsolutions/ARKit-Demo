@@ -6,6 +6,8 @@ ARKit-Demo project is an example for how to create your space using ARKit.
 ## Preview
 <img src="./Asset/preview.png?raw=true">
 
+<img src="./Asset/preview2.gif?raw=true">
+
 ## Installation
 
 ### Compatibility
